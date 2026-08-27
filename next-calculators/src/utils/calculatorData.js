@@ -109,7 +109,7 @@ export const calculators = [
 
   //Education Calculators
   { name: 'CGPA to Percentage Calculator', path: '/calculator/education/cgpa', category: 'education' },
-  { name: 'CGPA to SGPA Calculator', path: '/calculator/education/cgpa-sgpa', category: 'education' },
+  { name: 'SGPA to CGPA Calculator', path: '/calculator/education/cgpa-sgpa', category: 'education' },
   { name: 'Attendance Calculator', path: '/calculator/education/attendance', category: 'education' },
   { name: 'Education Loan Calculator', path: '/calculator/education/education-loan', category: 'education' },
   { name: 'Typing Speed Calculator (WPM)', path: '/calculator/education/typing', category: 'education' },

@@ -312,7 +312,7 @@ export default function Content() {
         <p className="text-sm mb-6 text-gray-600">Ensure your academic data and daily tasks are perfectly calculated with our suite of free online tools:</p>
         <div className="flex flex-wrap gap-3">
           <a href="/calculator/education/attendance" className="text-sm text-blue-700 hover:text-blue-800 hover:bg-blue-50 bg-white px-4 py-2 rounded-lg border border-gray-200 shadow-sm transition font-medium">Attendance Calculator</a>
-          <a href="/calculator/education/cgpa-sgpa" className="text-sm text-blue-700 hover:text-blue-800 hover:bg-blue-50 bg-white px-4 py-2 rounded-lg border border-gray-200 shadow-sm transition font-medium">CGPA to SGPA Converter</a>
+          <a href="/calculator/education/cgpa-sgpa" className="text-sm text-blue-700 hover:text-blue-800 hover:bg-blue-50 bg-white px-4 py-2 rounded-lg border border-gray-200 shadow-sm transition font-medium">SGPA to CGPA Converter</a>
           <a href="/calculator/education/marks-percentage" className="text-sm text-blue-700 hover:text-blue-800 hover:bg-blue-50 bg-white px-4 py-2 rounded-lg border border-gray-200 shadow-sm transition font-medium">Marks to Percentage</a>
           <a href="/calculator/education/education-loan" className="text-sm text-blue-700 hover:text-blue-800 hover:bg-blue-50 bg-white px-4 py-2 rounded-lg border border-gray-200 shadow-sm transition font-medium">Education Loan EMI</a>
           <a href="/calculator/education/gate-score" className="text-sm text-blue-700 hover:text-blue-800 hover:bg-blue-50 bg-white px-4 py-2 rounded-lg border border-gray-200 shadow-sm transition font-medium">GATE Score Calculator</a>
